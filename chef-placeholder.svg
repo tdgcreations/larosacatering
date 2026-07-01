@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">Chef portrait placeholder illustration</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#311416"/>
+      <stop offset="1" stop-color="#0f0c0a"/>
+    </linearGradient>
+    <linearGradient id="jacket" x1="0" x2="1">
+      <stop offset="0" stop-color="#171717"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <circle cx="400" cy="330" r="180" fill="#c8946c"/>
+  <path d="M232 315c10-150 95-225 179-225 112 0 180 75 172 232-33-89-105-131-179-130-70 0-128 32-172 123Z" fill="#18110f"/>
+  <path d="M263 360c11 185 71 253 137 253s126-68 137-253c-28 42-76 70-137 70s-109-28-137-70Z" fill="#d6a17a"/>
+  <ellipse cx="340" cy="343" rx="17" ry="12" fill="#231814"/>
+  <ellipse cx="460" cy="343" rx="17" ry="12" fill="#231814"/>
+  <path d="M350 451c28 25 71 25 100 0" fill="none" stroke="#7d312a" stroke-width="12" stroke-linecap="round"/>
+  <path d="M170 1000c5-240 80-380 230-380s225 140 230 380Z" fill="url(#jacket)"/>
+  <path d="M400 620v380" stroke="#4c4c4c" stroke-width="8"/>
+  <g fill="#b71f28" stroke="#e4b347" stroke-width="4">
+    <circle cx="300" cy="755" r="10"/>
+    <circle cx="300" cy="815" r="10"/>
+    <circle cx="300" cy="875" r="10"/>
+    <circle cx="500" cy="755" r="10"/>
+    <circle cx="500" cy="815" r="10"/>
+    <circle cx="500" cy="875" r="10"/>
+  </g>
+  <g transform="translate(440 715) scale(.34)">
+    <circle cx="150" cy="150" r="105" fill="#b71f28" stroke="#e4b347" stroke-width="14"/>
+    <path d="M80 165c35-70 105-85 145-24-30 15-62 39-82 80-13-35-32-49-63-56Z" fill="#f03d43"/>
+  </g>
+  <text x="502" y="840" fill="#f5dfc4" font-family="serif" font-size="34" text-anchor="middle">La Rosa</text>
+  <text x="502" y="875" fill="#e4b347" font-family="sans-serif" font-size="15" letter-spacing="7" text-anchor="middle">CATERING</text>
+</svg>
